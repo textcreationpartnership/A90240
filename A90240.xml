@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nativity of Sir John Presbyter. Compared with the Rhodulphine and Lansberges table. Verified by his conception, from the cyclops, brontes, steropes and pyrackmon, as they were making thunder and lightning in Mount Ætna. Compared with the judgements fo Ptolomey, Haly, Hermes, ALbumazar, Sconor, Tasnier, Regiomontanus, Guido, Bonatus, Keplar; Galileus, with other learned mathematicians, as well antient as moderne. / Calculated by Christopher Scale-Sky, mathematitian in chief to the Ass-embly of Divines. Licensed by Rowland Rattle-Priest, a terrible imprimatur, and entered according to order.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90240</idno>
+            <idno type="STC">Wing O630A</idno>
+            <idno type="STC">Thomason E290_17</idno>
+            <idno type="STC">ESTC R200140</idno>
+            <idno type="EEBO-CITATION">99860945</idno>
+            <idno type="PROQUEST">99860945</idno>
+            <idno type="VID">113072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113072)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E290[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nativity of Sir John Presbyter. Compared with the Rhodulphine and Lansberges table. Verified by his conception, from the cyclops, brontes, steropes and pyrackmon, as they were making thunder and lightning in Mount Ætna. Compared with the judgements fo Ptolomey, Haly, Hermes, ALbumazar, Sconor, Tasnier, Regiomontanus, Guido, Bonatus, Keplar; Galileus, with other learned mathematicians, as well antient as moderne. / Calculated by Christopher Scale-Sky, mathematitian in chief to the Ass-embly of Divines. Licensed by Rowland Rattle-Priest, a terrible imprimatur, and entered according to order.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>21 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed on the back-side of the Cyclopian Mountaines,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Christopher Scale-Sky = Richard Overton.</note>
+                  <note>Page 12 is misnumbered 21.</note>
+                  <note>Annotation on Thomason copy: "July 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113072:1" rendition="simple:additions"/>
+            <p>THE NATIVITY OF Sir JOHN PRESBYTER. Compared with the <hi>Rhodulphine</hi> and <hi>Lansberges TABLE.</hi> VERIFIED BY HIS CONCEPTION, From the CYCLOPS, <hi>Brontes, Steropes</hi> and <hi>Pyrackmon,</hi> as they were making Thunder and Lightning in <hi>Mount Aetna. COMPARED WITH THE J<g ref="char:V">Ʋ</g>DGEMENTS OF Ptolomey, Haly, Hermes, Albumazar, Sconor, Taſnier, Regiomontanus, Guido, Bonatus, Keplar; Galileus,</hi> with other learned <hi>Mathematicians,</hi> as well Antient as Moderne. Calculated by <hi>CHRISTOPHER SCALE-SKY, Mathemati<g ref="char:EOLhyphen"/>tian in chief to the Aſs-embly of</hi> Divines.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <opener>
+                        <signed>
+                           <hi>Licenſed by</hi> Rowland Rattle-Prieſt, <hi>a terrible IMPRIMAT<g ref="char:V">Ʋ</g>R,</hi>
+                        </signed>
+                     </opener>
+                     <p>
+                        <hi>AND Entered according to Order.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed on the back-ſide of the <hi>Cyclopian Mountaines.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:113072:2"/>
+            <pb facs="tcp:113072:2"/>
+            <head>TO THE RIGHT WORSHIPFULL, THE <hi>Aſs: Of DIVINES</hi> aſſembled at Weſtminſter.</head>
+            <opener>
+               <salute>Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Aking into ſerious conſideration, the depth of your Learning, the accuteneſſe of your witts, to get money by all trades, my thoughts were raviſhed, and I in a maze, when I ſaw, how you could make Laws, to ſerve God, to ſtuffe your gutts, to perſecute your enemies, and pull Chriſt out of his Throne, at one and the ſame time; truly, I had not thought it had been in you, when I ſee how farre your Wiſedome tranſcends the Papiſts, (who ſuppoſing (as well as you) that Hereticks ſhould be whipped, firſt whip themſelves) but you being Armed Cap a pied, with your Armour of folly, <hi>viz. ſelf-confidence</hi> and <hi>rage,</hi> (which firſt armed your Predeceſſors to proſe<g ref="char:EOLhyphen"/>cute, when Perſecution firſt began, by an Aſs. of Divines, in the Laterane Pal<g ref="char:EOLhyphen"/>lace in <hi>Rome</hi>) firſt make Hereticks of thoſe, whoſe Tenents of Truth you cannot anſwere, and then Perſecute them; O profound Wiſedome, ſurpaſſing the wiſe<g ref="char:EOLhyphen"/>dome of the Auncient; Beſides, conſidering your extreame need, and want of neceſſaries, having but <hi>24.</hi> Pounds a day, beſides ſome pretty Livings of a Hun<g ref="char:EOLhyphen"/>dred or two or three a yeere, (that for very hunger, you were forced to eate up <hi>26.</hi> Biſhops in one day) yet you ſhould hate idleneſſe, ſo as that rather then you will be idle, you will ſit ſtill and ſleep: yea, at that very time you have invented a Re<g ref="char:EOLhyphen"/>ligion, without either Scripture or reaſon to prove it; and laſtly, when I ſee (how you excell all Lay-men that are your freinds) how like men you can lay about you with your Claſſicall Club, beating your Antagoniſts ſmall as duſt (one thump with your Club being worth all <hi>Mr. Prinnes</hi> Subitane Apprehenſions) how willing you are to hang them, if you could catch them; I muſt needs confeſſe, that Chriſt and his Apoſtles either could not, or would not doe it: conſidering this you zeal, I was imboldned to preſent you this my Calculation of the Nativity of your owne
+<pb facs="tcp:113072:3"/> child, which is as like the Mother as ever it can looke-out of it's eyes, and not much unlike his<note n="*" place="margin">The Di<g ref="char:EOLhyphen"/>vell.</note> Grandſire, onely as yet he wanteth hornes; goe on Reverend Aſſembly, your works already praiſe you on the Gates, make your Son hornes of Iron, that he may puſh the Saints while none of them be left, that when you have ended theſe dayes of ſinning, you may be elevated ſomething neerer the Skies, which is the daily Prayer of</p>
+            <closer>
+               <signed>Your nimble and learned Servant, <hi>CHRISTOPHER SCALE-SKY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To his Celeſtiall Brother, <hi>Chriſtopher Scale-skie.</hi>
+            </head>
+            <l>REverend Aſſembly, up, ariſe and jogge,</l>
+            <l>For you have fairely fiſh't, and caught a frogge:</l>
+            <l>Now you have ſit two yeeres, pray can you tell</l>
+            <l>A man the way that Chriſt went down to Hell?</l>
+            <l>In theſe Two yeers, what can a wiſe man thinke</l>
+            <l>That you have done, ought elſe but eate and drinke:</l>
+            <l>
+               <hi>Presbytry</hi> (climb'd up to th' top of Fame:)</l>
+            <l>
+               <hi>Directory</hi> and all, from <hi>Scotland</hi> came,</l>
+            <l>Oh, Monſtrous Idleneſſe! alack and welly,</l>
+            <l>Our Learned <hi>Rabbies,</hi> minde nought but their belly,</l>
+            <l>Fall to my maſters, eate, and diſh about,</l>
+            <l>But yet my Brother <hi>Kit</hi> will finde you out;</l>
+            <l>On Brother <hi>Kit,</hi> once more, and none can mend thee,</l>
+            <l>The Sun and Moon, and all the Starrs attend thee.</l>
+            <closer>
+               <signed>
+                  <hi>By</hi> Rowland Rattle-Prieſt, <hi>Brother to</hi> Ch. Scale-sky, <hi>and Cozen Germanie to</hi> MARTIN MAR-PRIEST.</signed>
+            </closer>
+         </div>
+         <div type="horoscope">
+            <pb n="5" facs="tcp:113072:3"/>
+            <figure>
+               <figDesc>astrological horoscope diagram</figDesc>
+               <head>
+                  <hi>THE NATIVITY Of</hi> Sir JOHN PRESBYTER <hi>Verified</hi> From his Conception.</head>
+            </figure>
+            <p>
+               <seg rend="decorInit">T</seg>HE length of his Life is like to be neither long nor good; not not long. 1. Becauſe the Lord of <hi>life</hi> is not in the <hi>Houſe</hi> of <hi>death,</hi> which being <hi>Saturne,</hi> (ſaith <hi>Haly</hi>) cauſeth him to be deformed, ill-favoured, ill-conditioned, ſhort of life, death by taking away other mens goods, yet while he lives, he ſhall domineere over his brethren.</p>
+            <p n="2">2. Becauſe he is infortunate by the Lord of Death, which being the the <hi>Sunne</hi> in the Houſe of Subſtance, riches, &amp;c. oppoſite to the <hi>royall Starre, cor Leonis,</hi> will manifeſt and bring to light, his diſloyalty to the State, his cheating of the rich, his robbing of the poor, and bring him to a ſud<g ref="char:EOLhyphen"/>den untimely end, <hi>(perhaps hanging.)</hi>
+            </p>
+            <p n="3">3. Becauſe the <hi>Moon</hi> is infortunate in the very <hi>cuſpis</hi> of the <hi>horoſcope,</hi> which poſition yeelds him very ſhort life, unconſtant, medling with what he hath nothing to do; &amp; yet while he lives, he ſhalbe numbred among great <hi>perſons.</hi>
+            </p>
+            <p n="2">2. Secondly, not good, becauſe all the Planets are evill ſeated, and con<g ref="char:EOLhyphen"/>vey all their miſchefs to him, ſo that he ſeems to a judicious eye, not to be a creature compounded of the 4. Elements, fire, aire, earth and water, of which (being miraculouſly commixed) God made man, but of <hi>exaltation above Chriſt, Tyranny over the Conſcience, impriſoning the body, extorting the Eſtate,</hi> which being mixed with the ladle of Pride, in the Caldron of pre<g ref="char:EOLhyphen"/>ſumption, the devill made the Urchin called Sir <hi>John Presbyter.</hi>
+            </p>
+            <p>His miſchiefs are ſo many, that they cannot well be noted in the bulke, therefore we will take them aſſunder, and ſee particularly, what God hath done for him by permiſſion, the Divell by Act, and the Planets by in<g ref="char:EOLhyphen"/>fluence.</p>
+            <pb n="6" facs="tcp:113072:4"/>
+            <p n="1">1. <hi>Saturne</hi> makes him an abject, a fugitive (newly come out of <hi>Scotland</hi>) baſe-minded, a vile man, negligent, fearfull, ſad, penſive, covetous, a witch, ſtubborne, a Roague, ſuſpicious, ſuperſtitious, a deceiver, a railer, and ſends his evill Spirit, called in Hebrew <hi>Zazell,</hi> to wait upon him, and in apparrell, makes him delight in black like his father the Devill, and to oppoſe the glorious light of the Goſpel, and the Saints that walke in white, he makes him incline toward the laws of the <hi>Jews,</hi> exacting <hi>Tithes,</hi> obſerving dayes; and denying the Lord that bought him, crucifying Chriſt in his members.</p>
+            <p n="2">2. <hi>Jupiter</hi> makes him a lover of himſelf, high-minded, proud, ſuper<g ref="char:EOLhyphen"/>ſtitious, fearfull, faint-hearted, careleſſe, negligent, prodigall and Imperi<g ref="char:EOLhyphen"/>ous, given to adultery and whoring, and ſends his evill Spirit, called in He<g ref="char:EOLhyphen"/>brew <hi>Hiſmaell,</hi> to acompany him; Alſo he makes him turne his Fathers the Biſhops out of their Spiritualties, that he may ſhare their inheritance, and change the Age of Gods people from better to worſe.</p>
+            <p n="3">3. <hi>Mars</hi> makes him quarrelſome, cruell, angry, Tyrannicall, Unjuſt, Un<g ref="char:EOLhyphen"/>faithfull, a Blood-ſuccer, theeviſh, a make-bate, raſh, heady, high-minded, a Boaſter, very proud, a perſecuter of good Men, a murderer, furious, deſpe<g ref="char:EOLhyphen"/>rate, ſeditious, and an Adulterer, and ſendeth his Divel, called in Hebrew, <hi>Barzabell,</hi> to concommitate him.</p>
+            <p n="4">4. The <hi>Sunne</hi> makes him very Tyrannicall, proud, Ambitious, doing miſchief without end committing the Government of the Church into the hands of <hi>Ignoramus,</hi> ambitious <hi>Phaetons,</hi> with their doctrine to ſet the World on fire, and being checked by a ſuperiour Power, hee will deny the Light of the Goſpel to the World, and ſends his Divell, called in Hebrew, <hi>Sorath,</hi> the Number of the Letters of whoſe Name, is 666. and ſignifies the <hi>Prince of Darkneſſe,</hi> to keep him company.</p>
+            <p n="5">5. <hi>Venus</hi> makes him womaniſh, fearfull, weake in parts, weaker in judgement, but weakeſt of all in honeſty, ſloathfull, lecherous, a ſlanderer, not caring for his good Name, a lover of vile perſons, given to filthy lucre, liquor and luſt: Sodomiticall, Papall, Prelaticall, whoriſh, and ſends his evill Angel called in Hebrew, <hi>Kedemel</hi> to be his companion.</p>
+            <p n="6">6. <hi>Mercury</hi> makes him unſtable, malicious, a grievous Lyar, an abomi<g ref="char:EOLhyphen"/>nable thiefe, a ſlanderer, forgetfull, fooliſh, privily ſowing deceit, full of wicked Counſell and malice, and ſends his infortune, called in Hebrew, <hi>Taphihartharah,</hi> to beare him company.</p>
+            <p n="7">7. The <hi>Moone</hi> makes him fitter to be a weathercock then a Divine, make the place where he dwells, and all that dwell in the place infortunate, and at laſt driues him out of his native Country, without either fulfilling or fil<g ref="char:EOLhyphen"/>ling
+<pb n="7" facs="tcp:113072:4"/> full his deſires, and ſends him the infortune of all infortunes, called in Hebrew, <hi>Schedbarſchemoth Schartatham,</hi> to concommitate him.</p>
+            <p>But yet infortunate and unlucky <hi>Jupiter</hi> being in the profection and ho<g ref="char:EOLhyphen"/>roſcope of his Nativity, will product his life a yeer in all this miſchief, (for directions, profections, revolutions, &amp;c. I cannot note for ſorrow; I could no ſooner think of the miſeries he would bring upon this Kingdom, but his actions were ready to prevent my thoughts; alas poor <hi>England! Religio pe<g ref="char:EOLhyphen"/>perit filiam, &amp; filia devoravit matrem,</hi>) and therefore I will onely ſpeake briefly of the 12. <hi>Houſes,</hi> the ſignifications of, and <hi>Planets</hi> in them, uſually obſerved by <hi>Mathematicians</hi> in <hi>Nativities,</hi> in thoſe <hi>Houſes</hi> in which in this <hi>Nativity</hi> they happen; Calculated exactly, according to Art.</p>
+            <div type="part">
+               <head>Of the firſt Houſe.</head>
+               <p>In the <hi>Cuſpis</hi> of which is the ſecond degree of <hi>Capricorne,</hi> a ſigne of the triplicity of the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <hi>nocturnall, foeminine, Meridionall, cold, dry, melancholly, Beſtiall,</hi> with hornes on his head, ſubtill, quick, moveable, the <hi>Houſe</hi> of <hi>Sa<g ref="char:EOLhyphen"/>turne,</hi> the exaltation of <hi>Mars,</hi> the triplicity of <hi>Venus,</hi> the terme of <hi>Mercury,</hi> the face of <hi>Jupiter,</hi> the detriment of the <hi>Moon,</hi> and fall of <hi>Jupiter, Saturne</hi> is Lord of the <hi>place</hi> by <hi>houſe,</hi> and <hi>Mars</hi> by exaltation, who alſo is Lord Para<g ref="char:EOLhyphen"/>mount of the <hi>Nativity.</hi>
+               </p>
+               <p>This conſidered, he will be of Complexion <hi>chollerick,</hi>
+                  <note place="margin">His Com<g ref="char:EOLhyphen"/>plexion.</note> conjoyned with <hi>melancholly,</hi> the laſt making him deep in <hi>ſpeculation</hi> to ſtudy miſchief, the for<g ref="char:EOLhyphen"/>mer quick in <hi>Invention</hi> to act it: His <hi>Conditions</hi> will be furious, fighting a<g ref="char:EOLhyphen"/>gainſt heaven, (<hi>Saturne</hi> and <hi>Mars</hi> oppoſing <hi>Sol</hi> and <hi>Jupiter,</hi> of which,<note place="margin">Conditi<g ref="char:EOLhyphen"/>on.</note> more hereafter in its due place) ſo that had he power anſwerable to his ambiti<g ref="char:EOLhyphen"/>ous heart, he would graſp the <hi>North Pole</hi> with one hand, and the <hi>South Pole</hi> with the other; nay, he would tear God out of his Throne, and rule the crea<g ref="char:EOLhyphen"/>tion himſelf: He will fight furiouſly againſt <hi>Jeſus Chriſt,</hi> with tooth and nail laying about him in the Pulpit, as though he were <hi>felling Oakes,</hi> that ſo hee may get him a good ſtomach to his <hi>victualls,</hi> crying out, <hi>That Chriſt and his Apoſtles lived in the Infancy of the Church, &amp; therfore ſuffered themſelves to be kept under, but now the Church is come to perfection, and Chriſt hath committed the Scepter to him, to rule the Church till he come, and St.</hi> Peter <hi>hath given him his keyes, and if they ſpeedily doe not bring him fat Capons, Pigges and Geeſe, yea, and the Tenth of all they enjoy, though their Landlords want their rents, and their children bread, be will lock them out of heaven; alſo St.</hi> Paul <hi>hath given his Sword to him, that hath more wit to uſe it, with which he will chap his oppoſers as ſmall as hearbs to the pot;</hi> and this he darts out of his mouth with ſuch fury, as though he would eat up his Auditours. For his <hi>Nouriſhment,</hi>
+                  <note place="margin">Nouriſh<g ref="char:EOLhyphen"/>ment.</note> hee thirſteth
+<pb n="8" facs="tcp:113072:5"/> after blood, raving after it, like a ſtarven child after a dug, he was fed with Biſhops blood, all the time he was in his mothers belly; to conclude,
+<q>
+                     <l>Hee is nder-taught, and over-ſed,</l>
+                     <l>A little witt, and a great head.</l>
+                  </q>
+               </p>
+               <p>In this firſt <hi>Houſe</hi> alſo is the <hi>Moon</hi> infortunate, and infortunately ſeated in the aſcendent, in oppoſition to <hi>Mars,</hi> and ſextile to <hi>Mercury,</hi> makes him unconſtant, a vagabond, medling with things he hath nothing to doe with<g ref="char:EOLhyphen"/>all, ſloathfull, both he and his Mother of evill eſtimation with good men, ſhort life, yet while he lives, he ſhall be reckoned among great Perſons.</p>
+               <p>In it alſo is <hi>Jupiter,</hi> in direct oppoſition to <hi>Mars,</hi> which aſpect makes him an enemy to ſuch as have been his friends, and although his poſition in the <hi>Horoſcope,</hi> promiſe him long life, and much goods of the Church; yet his po<g ref="char:EOLhyphen"/>ſition in <hi>Capricorne</hi> in oppoſition to <hi>Mars,</hi> makes him ſpend it as faſt as he gets it, and in the end die poore; In generall, his poſition makes him cloak all his villanies with ſhew of vertue, in form of an evill hypocrite, and ſtand highly on his pedegree, fetching his deſcent from <hi>Titus,</hi> who hath newly left the Biſhoprick of <hi>Creta,</hi> to turn <hi>Presbyter,</hi> to be rich without labour, li<g ref="char:EOLhyphen"/>ving by the ſweat of other mens brows, admirable proud and domineering, tyrannicall, Lording it over the Conſcience, deſpiſing and diſpraiſing his betters, and diſdaining to be left to the good will of the Uulgar.</p>
+            </div>
+            <div type="part">
+               <head>Of the ſecond Houſe.</head>
+               <p>If the <hi>Cuſpis.</hi> of which is the 13 degree of <hi>Aquarius,</hi> a ſigne of the triplicity of the aire, diurnall, maſculine, fixed, hot and moyſt, humane, the houſe of <hi>Saturne,</hi> the detriment of the <hi>Sun,</hi> and <hi>Saturne</hi> Lord thereof, is oppoſite to it, and therefore an enemy thereof, which he ſhall have ſome eſtate, but ſhall ſpend it, and ſo much the ſooner, becauſe <hi>Saturne</hi> is retrograde.</p>
+               <p>In it is part of fortune in the 24. degree of <hi>Aquarius,</hi> which agravates the former judgement, and yeelds him to die miſerable poore.</p>
+               <p>In it is the <hi>Sunne</hi> in the 25. degree of <hi>Aquarius,</hi> unhappily placed in his detriment, and in direct oppoſition to <hi>Saturne</hi> and the <hi>Dragons taile;</hi> by himſelf, the <hi>Sunne</hi> makes him an honourable, Great man, that ſhall ſpend his goods in Magnificenſe, his aſpect to <hi>Saturne</hi> makes him ſickly, ſad, full of diſtracted thoughts, ſubitane witleſſe apprehenſions, great loſſe of goods, violent death, perhaps hanging; his poſition in <hi>Aquarius,</hi> and in the ſixth Houſe from the ninth, cauſeth him to have inſeparable diſeaſes in his eyes, whereby he ſhall not be able to diſcerne between Truth and falſhood, evill Servants, death of ſmall beaſts.</p>
+               <pb n="9" facs="tcp:113072:5"/>
+               <p>In it is the <hi>Dragons-head,</hi> which though in it ſelfe it promiſe no harme, yet being in oppoſition to its diſpoſitor, which is <hi>Saturne,</hi> ſtupid <hi>Saturne,</hi> in the Eighth Houſe, and with the <hi>Dragons-Taile,</hi> makes him (being retro<g ref="char:EOLhyphen"/>grade) quickly ſpend his goods, die a ſudden death by ſuffocation.</p>
+               <p>In it is <hi>Mercury</hi> retrograde, with debilities enough, who in himſelf would (by this poſition) make him grow rich by all trades, but his debil<g ref="char:EOLhyphen"/>lities, will make him ſuch a buſie-body and medler with other mens mat<g ref="char:EOLhyphen"/>ters, that he will get the ill opinion of the rabble rout, whoſe folly was his firſt riſe, and bring ſuch a diſgrace, and ignominy on the Clergy, which they will never claw off againe to their dying day, which God ſend may quick<g ref="char:EOLhyphen"/>ly come.</p>
+            </div>
+            <div type="part">
+               <head>Of the third Houſe.</head>
+               <p>In the <hi>cuſpis</hi> of which is the ſixth degree of <hi>Aries,</hi> a ſigne orientall, firy, of the regall triplicity, maſculine, of the day, chollerick, movable, fickle; but what doe I ſpy! <hi>Mars</hi> Lord thereof, in a quarrelling angle, occidentall, re<g ref="char:EOLhyphen"/>trograde, and in a ſquare to it?</p>
+               <p>
+                  <hi>Hei mihi qui ſtrepitus, quique tumultus adeſt;</hi> He ſhall ſet all his brethren ſiſters and kindred together by the eares, all the world ſhall be the worſe for him, and are bound to curſe the day that ever he was borne, hee ſhall have many fearfull dreams, and many times ſhall dreame waking, hee ſhall fetch a little petty journey Weſtward, perhaps to <hi>Hide-parke</hi> corner, to take the aire in a Coach with two wheeles.</p>
+               <p>In it is <hi>Venus</hi> in the eight degree of <hi>Aries,</hi> retrograde, and in her detri<g ref="char:EOLhyphen"/>ment, in ſquare to <hi>Mars,</hi> making him whooriſh, committing Inceſt with his kindred, &amp;c. but being in the ſeventh houſe from the nineth, hee ſhall ſcarcly ever marry, but ſhall have great quarrells and contentions about his whores, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of the fourth Houſe.</head>
+               <p>In the <hi>Cuſpis</hi> of which is the ſeventh degree of <hi>Taurus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the fift Houſe.</head>
+               <p>In the <hi>Cuſpis</hi> of which is the 22. degree of <hi>Taurus, Venus</hi> Lady of then both, therefore I will treat of them both together; a ſigne of the earth nocturnall, cold, cry, melancholly, beſtiall, <hi>Venus</hi> retrograde, flying back from the fourth Houſe, ſhall make his friends forſake him, and call him <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for an abortive, her poſition in the third Houſe, makes him poſſeſſe much treaſure, and goods immoveable, which he ſhall tear out of the very throats of his brethren, and when he dies, hee ſhall leave an inextinctible name be<g ref="char:EOLhyphen"/>hind him, which ſhall be famous for its baſeneſſe, ſo long as the World in<g ref="char:EOLhyphen"/>dures.</p>
+               <p>As for the fift Houſe, the <hi>almuten</hi> is in a barren Signe, and therefore he
+<pb n="10" facs="tcp:113072:6"/> is never like to have a child. <hi>Tu ſanguinis vultimus ordo,</hi> although the Di<g ref="char:EOLhyphen"/>vell lay with the Whore of <hi>Babylon,</hi> and begate <hi>Epiſcopacy,</hi> and <hi>Epiſcopacy</hi> be<g ref="char:EOLhyphen"/>gate <hi>Presbytry;</hi> yet Rejoyce O heavens, ſing aloud O earth, clap thy hands for joy, O <hi>England, poſt nubula ſoles,</hi> thou ſhalt have a time of Quietneſſe, of Peace, of content, for <hi>Presbytry</hi> will have never a childe to vex thee, to Im<g ref="char:EOLhyphen"/>priſon thy free Denizens, to ſuck up thy fat, devoure thy good things, and eate thy bread out of thy childrens mouthes, and himſelf is not long li<g ref="char:EOLhyphen"/>ved, as I ſhewed before, and then farewell <hi>Perſecution</hi> for Conſcience, fare<g ref="char:EOLhyphen"/>well <hi>Ordinance for Tythes,</hi> farewell <hi>Eccleſiaſticall Supremacy,</hi> farewell <hi>Ponti<g ref="char:EOLhyphen"/>ficall Revenue,</hi> farewell <hi>Aſſembly of Divines,</hi> diſſembled at <hi>Weſtminſter,</hi> you ſhall conſtult together no more, farewell Sir <hi>Symon Synod,</hi> and his Son <hi>Preſ<g ref="char:EOLhyphen"/>byter Jack.</hi>
+               </p>
+               <q>
+                  <l>Gens antiqua ruit, multos dominata per annos, <hi>and therefore O</hi> England;</l>
+                  <l>Inter pone tuis, interdum, gaudia curis.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>Of the ſixt Houſe.</head>
+               <p>In the <hi>Cuſpis</hi> of which is the eleventh degree of <hi>Gemini,</hi> a ſigne of the aire, diurnall, maſculine, hot and moiſt, and <hi>Mercury</hi> Lord thereof in <hi>piſces,</hi> in a ſquare to it, I feare he will be troubled with the <hi>Iliaque Paſſion,</hi> a diſeaſe which cauſeth men to vomit up their excrements, and ſo much the more, becauſe of that Scripture, <hi>His meat in his bowells is turned, It is as the gall of aſpes within him,</hi>
+                  <note place="margin">
+                     <hi>Job.</hi> 20.14.15.</note> 
+                  <hi>he hath ſwallowed down riches, he ſhall vomit them up againe, the Lord ſhall caſt them out of his belly.</hi> Certainly his Infirmities are many, great and laſting, If you view all the Planets, you ſhall ſee them all in their detriments or falls. The Learned ſay, if 4. Planets at a Nativity be in their detriments or falls, it threatens miſcheife and miſery to the native, as it happened at the Nativity of <hi>John</hi> Duke of <hi>Saxony,</hi> who was taken pri<g ref="char:EOLhyphen"/>ſoner by the Emperour <hi>Charles</hi> the Fifth, this good Duke had at his Na<g ref="char:EOLhyphen"/>tivity three Planets in their detriments, and one in perigrination, but here in this Nativity, they are all in their detriments or falls, and if the righteous ſcarcely be ſaved, where ſhall the ungodly and ſinner appeare.</p>
+               <p>
+                  <hi>Mercury</hi> Lord of the place, that ſhould have made him a <hi>Sheepheard</hi> over the Lambs and ſheep of Chriſt, looks aſquint upon the place, with a hatefull ſquare, and flies backward; only the evill ſpirit of <hi>Mercury,</hi> whom we men<g ref="char:EOLhyphen"/>tioned before, preferred him to be the Divells <hi>Goat-heard,</hi> having poſſeſſed his noddle with a perſwaſion of an unerring Spirit, that he may perſecute all his oppoſers, even to the death.</p>
+            </div>
+            <div type="part">
+               <head>Of the ſeventh Houſe.</head>
+               <p>In the <hi>Cuſpe</hi> of which is the ſecond degree of <hi>Cancer,</hi> a watry, fickle,
+<pb n="11" facs="tcp:113072:6"/> moveable, feminine, nocturnall ſigne and the <hi>Moone</hi> Lady of it, oppoſite to it, and therefore an enemy to it, making him fickle, quarrelſome to have many wives, though the <hi>Spowſe</hi> of <hi>CHRIST</hi> be but one.</p>
+               <p>In it is <hi>Mars</hi> the Lord Paramount of the <hi>Sheame,</hi> unhappily ſeated in his fall, in Direct oppoſition to benevolent but dejected <hi>Jupiter,</hi> and to the aſ<g ref="char:EOLhyphen"/>cendent: which is his own exaltation, which worſe then the worſt of all in<g ref="char:EOLhyphen"/>fortunes, brings heavy ſufferings to the native, <hi>Haly</hi> ſaith, if <hi>Mars</hi> be in a watry ſigne, as now he is, this miſchiefe and miſery ſhall come from the<note n="*" place="margin">Presbytry came from Scotland.</note> 
+                  <hi>North,</hi> the Aphoriſme may carry credit, for you ſee it verrified:</p>
+               <p>To be brief, his poſition in a quarrelling angle, will cauſe him to fill the Kingdome full of ſtrife, debate, and to embrew whole Nations in <hi>blood,</hi> to ſatisfie his owne ambitious aſpiring thoughts, mak's him violent to doe miſchiefe, to be an enemy to God, Goodneſſe and Good people, domi<g ref="char:EOLhyphen"/>neering over his Superiours, equalls and inferiours, his throat an open Sepulchre, with his tongue he uſeth deceit, the poyſon of <hi>Aſpes</hi> is under his lips, and the way of Truth hath he not known, his mouth is full of cur<g ref="char:EOLhyphen"/>ſing and bitterneſſe, his feet are ſwift to ſhed blood, deſtruction and miſery are in his wayes, there is no feare of God before his eyes: I can write no more of this for weeping.</p>
+               <p>Yet being in the Eleventh Houſe from the Ninth, hee makes him have great friends at firſt, and thoſe no ſmall fooles neither, notwithſtanding ſpying him Lord both of the Tenth and Eleventh Houſe; he ſhall domi<g ref="char:EOLhyphen"/>neere over the State, ſwaying them at his pleaſure,<note n="*" place="margin">Witneſſe Manche<g ref="char:EOLhyphen"/>ſter a<g ref="char:EOLhyphen"/>gainſt Cromwel.</note> moving them to con<g ref="char:EOLhyphen"/>tention and quarrelling one with another, and making meere ſlaves of them, of which more in its due place.</p>
+            </div>
+            <div type="part">
+               <head>Of the Eight Houſe.</head>
+               <p>In the <hi>Cuſpis</hi> of which is the Thirteenth degree of the regall ſigne <hi>Leo,</hi> a ſigne of the fiery triplicity, the Sunne Lord thereof, juſt oppoſite to it, his death will be violent, like as when a mill-ſtone is hurl'd into the ſea, which is adjuvated by the preſence of <hi>Saturne</hi> in the houſe with the poyſon<g ref="char:EOLhyphen"/>ſome taile of the <hi>Dragon,</hi> which being ſeated in that houſe, would have made him dye in priſon, but the <hi>Dragons-head</hi> in the ſecond Houſe in oppoſiti<g ref="char:EOLhyphen"/>on, hath provided a ſweeter aire, though a more Ignominious death for him.</p>
+               <p>
+                  <hi>Saturne</hi> is partner with his fellow Nature-killing <hi>Mars</hi> in his Nativity, (which I let ſlip before) being diſpoſitor of the Aſcendent, and both the Luminaries, <hi>viz.</hi> the <hi>Sunne</hi> and <hi>Moone,</hi> if the Lord of the Nativity be<g ref="char:EOLhyphen"/>hold the <hi>Sunne,</hi> and both infortunate, the Native ſhall be an enemy
+<pb n="21" facs="tcp:113072:7"/> both to King and People, in this Nativity it is ſo, for both are in their de<g ref="char:EOLhyphen"/>triments, both oppoſite; but her's all our comfort, this Poſition threatens ſhort life, hee ſhall live but a ſmall time to doe miſchiefe, and then the com<g ref="char:EOLhyphen"/>mon people, which now admire him, will begin to ſing, <hi>Hey Toſſe, the Divells dead,</hi> alſo, his diſeaſe will be dangerous to his Mother and Father, for ſaith <hi>Taiſmer,</hi> if one of the ill fortunes be in <hi>Cancer</hi> at a <hi>Nativity;</hi> It ſignifies ſhort life to the Mother, if one of them be in <hi>Leo</hi> in a Nativity, it ſignifies ſhort life of the Father; therefore, <hi>though ſorrow continue all night, joy ſhall come in the morning,</hi> Presbytry will quickly die, the Synod be diſſolved, and the Divell chained up, and therefore follow the advice of old <hi>Cato, Spem<g ref="char:EOLunhyphen"/>retine,</hi> &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of the Ninth Houſe.</head>
+               <p>Now for his Religion, which one would thinke ſhould be ballanced by reaſon; the Sixth degree of <hi>Libra</hi> in the <hi>Cuſpe,</hi> he will be a Divine, but <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> is oppoſite to it, and ſhe, and all the reſt of the Planets are madde, and therefore he will be a madde one, eſtabliſh a madde Religion, and hee will be as fickle as the wind, a fat Benifice will change him, <hi>ab equis ad afinos, Venus</hi> in <hi>Quadrat,</hi> to <hi>Iupiter, Luna</hi> and <hi>Mars,</hi> and Trine to <hi>Saturne,</hi> make him incline to the law of the <hi>Jewes,</hi> as I mentioned before, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of the tenth houſe and eleventh.</head>
+               <p>Both which the moſt malevolent and martiall ſigne <hi>Scorpio,</hi> irradiates with his poyſonſome beame, and <hi>Mars</hi> Lord of them both, He ſhall ſet the Kings or Rulers againſt the people, and the people againſt their Rulers, cauſeth all the Rulers, Officers, Magiſtrates, yea the Parliament it ſelf, to ſit whole weekes in conſultation which way to ſit the <hi>Beaſt</hi> on horſe-back, that he may ride to the Divell, this cauſeth all our Warres, blood-ſhed, murders, robberies, &amp;c. <hi>viz.</hi> to advance Presbytry over Church and States O profound Divinity! Oh <hi>baſeneſſe beyond compariſon.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Twelfth Houſe.</head>
+               <p>In the <hi>Cuſpis</hi> of which is the Eleventh degree of <hi>Sagittarius,</hi> and <hi>Jupiter</hi> Lord thereof in the firſt houſe, cauſeth him to ſuffer, even in his youth, to have many hidden enemies, and ſome ſo cunning, that he ſhall never finde them while his eyes are open, It alſo foretells to him anger, ſadneſſe, enmi<g ref="char:EOLhyphen"/>ty and conſpiracy, priſon, captivity, Lamentation, mourning and woe, which alwayes follows continuance in evill doing; for great Beaſts I might ſay ſomething, <hi>Sagitarius</hi> being in the Cuſpe, but I will onely conclude with a caution, let him beware of a horſe that walkes Weſtward with a Car at's taile and ſo farewell childe, as full of ſubtilty and miſchief, as an egg is full of goodneſſe. <hi>Ego in calum migro.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
